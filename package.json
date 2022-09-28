@@ -1,0 +1,18 @@
+{
+  "name": "59scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "credit score for good ◄ Get Your FREE Credit Score credit score for good, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "credit score for good",
+  "credit card with 700 credit score",
+  "how good is a credit score",
+  "credit score and car insurance",
+  "why credit score dropped 30 points"
+  ],
+  "repository": "https://github.com/truelestor/59scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
